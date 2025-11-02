@@ -18,6 +18,12 @@ Hey there! This repo contains my submissions for the Coframe Mark-1 challenge. E
 
 **Variant E** - Added a key benefits section with icons highlighting device features: real-time tracking, health monitoring, and battery life. Makes the value props more scannable.
 
+### 🎨 Creative Bonus
+
+**Variant F** - Added a sticky savings counter banner at the top showing real-time savings: "Finance teams have saved $X million this month with Ramp." Creates urgency and FOMO to drive conversions.
+
+**Hypothesis:** A live-updating counter showing "Finance teams have saved $X million this month" creates FOMO and increases email signups by 8-12%.
+
 ## Structure
 
 Each variant folder contains:
@@ -28,7 +34,7 @@ Each variant folder contains:
 
 ## Notes
 
-All code is vanilla JavaScript (no frameworks needed). The variants use the `cf:` prefix for scoped Tailwind classes to avoid conflicts with existing site styles.
+The variants use the `cf:` prefix for scoped Tailwind classes to avoid conflicts with existing site styles.
 
 Built with attention to:
 - Responsive design (mobile + desktop)
@@ -38,5 +44,4 @@ Built with attention to:
 
 ---
 
-Thanks for checking out my work! Feel free to reach out if you have questions.
 
